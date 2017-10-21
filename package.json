@@ -1,0 +1,23 @@
+{
+  "name": "ts-node",
+  "version": "1.0.0",
+  "description": "A sample application of node.js and typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ehsankhfr/ts-node.git"
+  },
+  "keywords": [
+    "node.js",
+    "typescript"
+  ],
+  "author": "Ehsan Khakifirooz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehsankhfr/ts-node/issues"
+  },
+  "homepage": "https://github.com/ehsankhfr/ts-node#readme"
+}
